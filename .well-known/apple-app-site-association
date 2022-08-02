@@ -3,7 +3,11 @@
         "details": [
             {
                 "appIDs": ["RB73NXNMA7.org.cocoapods.demo.Auth-Example"],
-                "components": [] 
+                "components": [
+{ 
+"/": "index.html"
+}
+] 
             }
         ]
     },

@@ -1,9 +1,0 @@
-{
-      "applinks": {
-          "apps": [],
-          "details": [{
-              "appID": "RB73NXNMA7.org.cocoapods.demo.Auth-Example",
-              "paths": ["*"]
-          }]
-      }
-}

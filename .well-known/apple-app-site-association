@@ -1,9 +1,17 @@
 {
-      "applinks": {
-          "apps": [],
-          "details": [{
-              "appID": "RB73NXNMA7.org.cocoapods.demo.Auth-Example",
-              "paths": ["*"]
-          }]
-      }
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["RB73NXNMA7.org.cocoapods.demo.Auth-Example"],
+                "components": [
+{ 
+"/": "index.html"
+}
+] 
+            }
+        ]
+    },
+"webcredentials": {
+      "apps": [ "RB73NXNMA7.org.cocoapods.demo.Auth-Example" ]
+   }
 }

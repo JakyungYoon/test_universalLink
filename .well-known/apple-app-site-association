@@ -5,7 +5,7 @@
                 "appIDs": ["RB73NXNMA7.org.cocoapods.demo.Auth-Example"],
                 "components": [
                		{
-                	"/": “*”
+                	"/": “/*”
                     }
                 ] 
             }

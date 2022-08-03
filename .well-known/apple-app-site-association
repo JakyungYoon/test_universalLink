@@ -5,7 +5,10 @@
                 "appIDs": ["RB73NXNMA7.org.cocoapods.demo.Auth-Example"],
                 "components": [
 { 
-"/": "index.html"
+"/": "/*",
+ "exclude": true,
+                  "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
+               },
 }
 ] 
             }

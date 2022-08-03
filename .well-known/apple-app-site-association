@@ -1,15 +1,17 @@
 {
     "applinks": {
+	"apps": [],
         "details": [
             {
                 "appIDs": ["RB73NXNMA7.org.cocoapods.demo.Auth-Example"],
                 "components": [
 			{ 
-				"/": "/*",
+				"/": "*",
  				"exclude": true,
                   "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
               		 }
-		] 
+		],
+"paths": [ "*" ]
             }
         ]
     },
